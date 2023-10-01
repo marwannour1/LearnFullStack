@@ -1,0 +1,9 @@
+h2{
+    font-size: 50px;
+    text-align: center;   
+}
+button{
+    text-align: center;
+    margin: auto;
+    display: flex;
+}
