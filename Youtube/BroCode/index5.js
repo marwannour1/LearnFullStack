@@ -21,4 +21,3 @@ for (let i = 0; i < userName.length; i++)
 {
     console.log(userName.charAt(i));
 }
-console.log(userName[0,4])
